@@ -1,0 +1,54 @@
+{
+    "manifest": {
+        "name": "Dead Melodies",
+        "author": "Shell-shockedFox#5379",
+        "version": "0.0.4",
+        "license": "GPL-3.0"
+    },
+    "background": {
+        "overlay_alpha": 155,
+        "blur_radius": 2,
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/691652466990645328\/886522906786562068\/simon-heath-robotwinter7-3-daedmelodies_1.png"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/691652466990645328\/886518240535273492\/7fonts.ru_LiberationSerif-Regular.ttf"
+    },
+    "simple_colors": {
+        "active_channel": 486539263,
+        "input_background": -2171170,
+        "accent": -7303024,
+        "statusbar": -12038566,
+        "mention_highlight": -8748658
+    },
+    "colors": {
+        "brand_new": -7303024,
+        "brand_new_300": -7303024,
+        "brand_new_360": -7303024,
+        "brand_new_400": -7303024,
+        "brand_new_430": -7303024,
+        "brand_new_460": -7303024,
+        "brand_new_500": -7303024,
+        "brand_new_530": -7303024,
+        "brand_new_560": -7303024,
+        "brand_new_600": -7303024,
+        "brand_new_630": -7303024,
+        "brand_new_660": -7303024,
+        "primary_600": -16644585,
+        "primary_630": -10985360,
+        "primary_700": -10985360,
+        "primary_800": -10985360,
+        "primary_dark_600": -7303024,
+        "primary_dark_630": -10855846,
+        "primary_dark_660": -10855846,
+        "primary_dark_700": -12040120,
+        "primary_dark_800": -13684945,
+        "primary_dark_400": -7303024,
+        "link": -9820895,
+        "primary_dark_100": -7303024,
+        "primary_dark_360": -10456944,
+        "primary_dark_300": -7303024
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": 402653183
+    }
+}
