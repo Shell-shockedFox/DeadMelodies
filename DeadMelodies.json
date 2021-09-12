@@ -3,12 +3,12 @@
         "name": "Dead Melodies",
         "author": "Shell-shockedFox#5379",
         "version": "0.0.4",
-        "license": "GPL-3.0"
+        "license": "GPL-3.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/Shell-shockedFox\/DeadMelodies\/main\/DeadMelodies.json"
     },
     "background": {
-        "overlay_alpha": 155,
-        "blur_radius": 2,
-        "url": "https:\/\/cdn.discordapp.com\/attachments\/691652466990645328\/886522906786562068\/simon-heath-robotwinter7-3-daedmelodies_1.png"
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/691652466990645328\/886522906786562068\/simon-heath-robotwinter7-3-daedmelodies_1.png",
+        "blur_radius": 20
     },
     "fonts": {
         "*": "https:\/\/cdn.discordapp.com\/attachments\/691652466990645328\/886518240535273492\/7fonts.ru_LiberationSerif-Regular.ttf"
@@ -43,7 +43,7 @@
         "primary_dark_700": -12040120,
         "primary_dark_800": -13684945,
         "primary_dark_400": -7303024,
-        "link": -9820895,
+        "link": -2965828,
         "primary_dark_100": -7303024,
         "primary_dark_360": -10456944,
         "primary_dark_300": -7303024
