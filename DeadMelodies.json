@@ -1,28 +1,39 @@
 {
     "manifest": {
-        "name": "Dead Melodies",
-        "author": "Shell-shockedFox#5379",
-        "version": "0.0.4",
         "license": "GPL-3.0",
+        "name": "Dead Melodies",
+        "author": "Shells-shockedFox#5379",
+        "version": "0.8",
         "updater": "https:\/\/raw.githubusercontent.com\/Shell-shockedFox\/DeadMelodies\/main\/DeadMelodies.json"
     },
     "background": {
         "url": "https:\/\/cdn.discordapp.com\/attachments\/691652466990645328\/886522906786562068\/simon-heath-robotwinter7-3-daedmelodies_1.png",
-        "blur_radius": 20
+        "overlay_alpha": 155,
+        "blur_radius": 25
     },
     "fonts": {
         "*": "https:\/\/cdn.discordapp.com\/attachments\/691652466990645328\/886518240535273492\/7fonts.ru_LiberationSerif-Regular.ttf"
     },
     "simple_colors": {
-        "active_channel": 486539263,
-        "input_background": -2171170,
-        "accent": -7303024,
-        "statusbar": -12038566,
-        "mention_highlight": -8748658
+        "mention_highlight": -10985360,
+        "accent": -7569816
     },
     "colors": {
-        "brand_new": -7303024,
+        "brand_new": -8880192,
+        "link": -11709342,
+        "material_grey_50": -15000543,
+        "uikit_btn_bg_color_selector_background_accent_dark": -42948994,
+        "uikit_btn_bg_color_selector_background_accent_light": -7569816,
+        "uikit_btn_bg_color_selector_brand": -15000543,
+        "uikit_btn_bg_color_selector_green": -15307272,
+        "uikit_btn_bg_color_selector_red": -7569816,
+        "uikit_btn_bg_color_selector_secondary_dark": -12119019,
+        "uikit_btn_bg_color_selector_secondary_light": -15000543,
+        "brand_new_100": -7303024,
         "brand_new_300": -7303024,
+        "brand_new_230": -7303024,
+        "brand_new_260": -7303024,
+        "brand_new_330": -7303024,
         "brand_new_360": -7303024,
         "brand_new_400": -7303024,
         "brand_new_430": -7303024,
@@ -32,23 +43,16 @@
         "brand_new_560": -7303024,
         "brand_new_600": -7303024,
         "brand_new_630": -7303024,
-        "brand_new_660": -7303024,
-        "primary_600": -16644585,
-        "primary_630": -10985360,
-        "primary_700": -10985360,
-        "primary_800": -10985360,
-        "primary_dark_600": -7303024,
-        "primary_dark_630": -10855846,
-        "primary_dark_660": -10855846,
-        "primary_dark_700": -12040120,
-        "primary_dark_800": -13684945,
-        "primary_dark_400": -7303024,
-        "link": -2965828,
-        "primary_dark_100": -7303024,
-        "primary_dark_360": -10456944,
-        "primary_dark_300": -7303024
+        "primary_dark_300": -7303024,
+        "primary_dark_630": -13684945,
+        "primary_dark_660": -7303024,
+        "primary_dark_700": -13684945,
+        "primary_dark_400": -7303024
     },
     "drawable_tints": {
-        "drawable_overlay_channels_selected_dark": 402653183
+        "drawable_button_grey": -14471254,
+        "drawable_overlay_channels_active_dark": -4605237,
+        "drawable_overlay_channels_selected_dark": -13154481,
+        "drawable_overlay_channels_selected_light": -8092540
     }
 }
