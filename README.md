@@ -1,2 +1,2 @@
-# DeadMelodies
-Тема для Aliucord
+# Themes
+Темы для Aliucord
