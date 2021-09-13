@@ -3,8 +3,8 @@
         "license": "GPL-3.0",
         "name": "Dead Melodies",
         "author": "Shells-shockedFox#5379",
-        "version": "0.8",
-        "updater": "https:\/\/raw.githubusercontent.com\/Shell-shockedFox\/DeadMelodies\/main\/DeadMelodies.json"
+        "version": "0.9.8",
+        "updater": "https:\/\/raw.githubusercontent.com\/Shell-shockedFox\/ThemesManufacture\/main\/DeadMelodies.json"
     },
     "background": {
         "url": "https:\/\/cdn.discordapp.com\/attachments\/691652466990645328\/886522906786562068\/simon-heath-robotwinter7-3-daedmelodies_1.png",
@@ -12,7 +12,13 @@
         "blur_radius": 25
     },
     "fonts": {
-        "*": "https:\/\/cdn.discordapp.com\/attachments\/691652466990645328\/886518240535273492\/7fonts.ru_LiberationSerif-Regular.ttf"
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/691652466990645328\/886518240535273492\/7fonts.ru_LiberationSerif-Regular.ttf",
+        "ginto_bold": "https:\/\/cdn.discordapp.com\/attachments\/691652466990645328\/886518240535273492\/7fonts.ru_LiberationSerif-Regular.ttf",
+        "ginto_medium": "https:\/\/cdn.discordapp.com\/attachments\/691652466990645328\/886518240535273492\/7fonts.ru_LiberationSerif-Regular.ttf",
+        "ginto_regular": "https:\/\/cdn.discordapp.com\/attachments\/691652466990645328\/886518240535273492\/7fonts.ru_LiberationSerif-Regular.ttf",
+        "roboto_medium_numbers": "https:\/\/cdn.discordapp.com\/attachments\/691652466990645328\/886518240535273492\/7fonts.ru_LiberationSerif-Regular.ttf",
+        "sourcecodepro_semibold": "https:\/\/cdn.discordapp.com\/attachments\/691652466990645328\/886518240535273492\/7fonts.ru_LiberationSerif-Regular.ttf",
+        "whitney_bold": "https:\/\/cdn.discordapp.com\/attachments\/691652466990645328\/886518240535273492\/7fonts.ru_LiberationSerif-Regular.ttf"
     },
     "simple_colors": {
         "mention_highlight": -10985360,
@@ -25,7 +31,7 @@
         "uikit_btn_bg_color_selector_background_accent_dark": -42948994,
         "uikit_btn_bg_color_selector_background_accent_light": -7569816,
         "uikit_btn_bg_color_selector_brand": -15000543,
-        "uikit_btn_bg_color_selector_green": -15307272,
+        "uikit_btn_bg_color_selector_green": -7569816,
         "uikit_btn_bg_color_selector_red": -7569816,
         "uikit_btn_bg_color_selector_secondary_dark": -12119019,
         "uikit_btn_bg_color_selector_secondary_light": -15000543,
@@ -50,9 +56,32 @@
         "primary_dark_400": -7303024
     },
     "drawable_tints": {
-        "drawable_button_grey": -14471254,
+        "drawable_button_grey": -12296088,
         "drawable_overlay_channels_active_dark": -4605237,
-        "drawable_overlay_channels_selected_dark": -13154481,
-        "drawable_overlay_channels_selected_light": -8092540
+        "drawable_overlay_channels_selected_dark": -12296088,
+        "drawable_overlay_channels_selected_light": -8092540,
+        "ic_boosted_badge_12dp": -7303024,
+        "ic_boosted_badge_18dp": -7303024,
+        "ic_boosted_badge_24dp": -7303024,
+        "ic_profile_24dp": -7303024,
+        "ic_profile_badge_premium_guild_subscription_lvl1_32dp": -4234902,
+        "ic_profile_badge_premium_guild_subscription_lvl2_32dp": -4234902,
+        "ic_profile_badge_premium_guild_subscription_lvl3_32dp": -4234902,
+        "ic_profile_badge_premium_guild_subscription_lvl4_32dp": -4234902,
+        "ic_profile_badge_premium_guild_subscription_lvl5_32dp": -4234902,
+        "ic_profile_badge_premium_guild_subscription_lvl6_32dp": -4234902,
+        "ic_profile_badge_premium_guild_subscription_lvl7_32dp": -4234902,
+        "ic_profile_badge_premium_guild_subscription_lvl8_32dp": -4234902,
+        "ic_profile_badge_premium_guild_subscription_lvl9_32dp": -4234902,
+        "ic_account_spotify": -10914187,
+        "ic_spotify_green_24dp": -12296088,
+        "ic_spotify_white_24dp": -7303024,
+        "ic_account_youtube": -8962750,
+        "ic_profile_badge_nitro_32dp": -7303024,
+        "ic_account_twitter": -12296088,
+        "ic_account_twitch": -14738900,
+        "ic_hypesquad_house2_32dp": -8962750,
+        "ic_hypesquad_house1_32dp": -12304305,
+        "ic_hypesquad_house3_32dp": -10914187
     }
 }
